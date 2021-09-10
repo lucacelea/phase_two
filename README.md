@@ -71,11 +71,11 @@ The fight is split up in two phases. A **Frost** and a **Nature** phase. We will
 
 The **Mark** mechanic is a specific debuff for either phase that stacks up slowly the longer you are in a phase. This makes it harder to stay in a given phase. We will **swap to either side around 100% of the Mark debuff**.
 
-![**Frost** phase](images/frost_phase.png)
+![**Frost** phase](frost_phase.png)
 
 During the **Frost** phase, the boss targets players with [**Water Tomb**](https://tbc.wowhead.com/spell=38235/water-tomb), an AOE stun which deals moderate DOT damage. Everyone needs to be at least 8 yards apart.
 
-![**Nature** phase](images/nature_phase.png)
+![**Nature** phase](nature_phase.png)
 
 During the **Nature** phase, the boss puts a [**Vile Sludge**](https://tbc.wowhead.com/spell=38246/vile-sludge) debuff on a random player, reducing their healing taken and doing moderate DOT damage.
 
