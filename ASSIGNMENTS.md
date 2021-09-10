@@ -2,7 +2,7 @@
 
 **CURSES**
 
-|CoE | CoR | CoT |
+|CoE | CoR | CoT/CoD |
 | ----------- | ----------- | ----------- |
 |WL1 | WL2 | REST (if applicable) |
 
