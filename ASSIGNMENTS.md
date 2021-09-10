@@ -46,4 +46,8 @@ No particular assignments in mind right now, suggestions welcome.
 
 ## Morogrim Tidewalker
 
+| Frost Traps |
+| ----------- |
+| H1,H2       |
+
 ## Lady Vashj
