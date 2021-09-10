@@ -111,7 +111,7 @@ After two minutes **The Lurker Below** will submerge, starting the **Add** phase
 
 ![**Boss** phase](add_phase.png)
 
-During this **Add** phase, **adds** spawn (who would've thought). Each small platform spawns two [**Coilfang Ambushers**](https://tbc.wowhead.com/npc=21865/coilfang-ambusher). These **will be CC'ed by the ranged DPS on the platform** until the [**Coilfang Guardians**](https://tbc.wowhead.com/npc=21873/coilfang-guardian) are dead. These Guardians will be tanked and focused down, after which melee and casters will go around in a clockwise fashion to kill the Ambushers. 
+During this **Add** phase, **adds** spawn (who would've thought). Each small platform spawns two [**Coilfang Ambushers**](https://tbc.wowhead.com/npc=21865/coilfang-ambusher). These **will be CC'ed by the ranged DPS on the platform** until the [**Coilfang Guardians**](https://tbc.wowhead.com/npc=21873/coilfang-guardian) (**these cleave**) are dead. These Guardians will be tanked and focused down, after which melee and casters will go around in a clockwise fashion to kill the Ambushers. 
 
 After the **adds** are dead, **The Lurker Below** will reemerge and do a wombocombo, so prepare for that.
 
@@ -119,6 +119,36 @@ After the **adds** are dead, **The Lurker Below** will reemerge and do a womboco
 
 After this it's rinse and repeat boys and girls. Time to collect that mace.
 
+### Leotheras the Blind
 
+The fight starts with three adds which will be killed in any order. After this **Leotheras** will come out. booba. Leotheras will swap between his **human** and **demon** phase. He starts out in his **human** phase.
+
+In the **human** phase, he will periodically cast [Whirlwind](https://tbc.wowhead.com/spell=37641/whirlwind) while moving to random players. You **NEED** to avoid this. Spread out and run like you did on [Battleguard Sartura](https://classic.wowhead.com/npc=15516/battleguard-sartura). **After each [Whirlwind](https://tbc.wowhead.com/spell=37641/whirlwind) he RESETS THREAT.** So you need to **wait** until the tank establishes threat.
+
+**After 45 seconds**, Leotheras transitions to his **demon** phase and this is where a warlock with fire resistance will pick him up. When picked up the warlock just needs to maintain threat and be healed. That's it.
+
+Leotheras will sometimes spawn a **inner demon** on up to five players. **These need to be killed by the person afflicted by the inner demon.** No one can help you. If you cannot finish it before the **demon** phase ends, you will get **mind controlled**. Most likely resulting in a wipe.
+
+At 15% he duplicates himself, meaning we are fighting both phases at the same time. The warlock picks up the demon and the human is finished off quickly.
+
+### Phantom-Lord Karathress
+
+This guy, again, is piss easy. Diagram for positioning below.
+
+![Phantom Lord](phantom_lord.png)
+
+Kill order is:
+
+> Shaman >> Hunter >> Priest >> Phantom-Lord Karathress
+
+**PHANTOM-LORD GAINS ABILITIES FROM ADDS THAT DIE, JUST LIKE OPENING TRASH IN AQ40.**
+
+The **Shaman and Hunter** will be cleaved together. The **Shaman** will spawn [Spitfire Totems](https://tbc.wowhead.com/spell=38236/spitfire-totem) which have to be killed. The **Hunter** spawns an add which has to be picked up and cleaved down. 
+
+The **Priest** will be pulled off to the side behind a pillar and tanked together with a healer.
+
+When the **Shaman** dies, **Phantom-Lord** is brought to the **Shaman's** spot and will start to get cleaved. **AT NO POINT CAN PHANTOM-LORD'S HEALTH BE BELOW 75% WHEN THERE ARE STILL ADDS UP.** This will cause a wipe.
+
+When the **Hunter** dies, we kill the **Priest** while interrupting her. After which we nuke the **Phantom-Lord**.
 
 
