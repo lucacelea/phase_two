@@ -17,10 +17,10 @@ Before each raid, the table below will be updated to reflect the group compositi
 |                   | 7: Adeptus        | 12: Snowbolls     | 14: Lepotan |
 |                   | 8: Eiswuerfel     | 13: Shamidon      | M1: Capernian |
 |                   |                   |                   | M2: Ex |
-|                   |                   |                   | WL1: Brunarian |
+|                   |                   |                   | WL1: Marionette |
 |                   |                   |                   | WL2: Onlytwogendr |
 |                   |                   |                   | WL3: Galing |
-|                   |                   |                   | WL4: Marionette |
+|                   |                   |                   | WL4: Brunarian |
 |                   |                   |                   | 15: Agaboo |
 |                   |                   |                   | 16: Samlad |
 
