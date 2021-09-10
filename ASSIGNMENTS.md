@@ -22,7 +22,27 @@ No particular assignments in mind right now, suggestions welcome.
 
 ## Leotheras the Blind
 
+| Tanking duty |
+| ----------- |
+| WL1 |
+
+**Hunters try to uphold this rotation of Misdirects.** Misdirect following each threat reset. (After Whirlwind, after phase transition)
+
+> H1 >> H2 >> H3
+
 ## Phantom-Lord Karathress
+
+**ON PULL**
+
+> H1 >> Misdirect **Priest** to T3
+
+> H2 >> Misdirect **Shaman** to T1
+
+> H3 >> Misdirect **Hunter** to T1
+
+**KICK ROTATION WHEN KILLING PRIEST**
+
+> 10 >> 11 >> 12 >> 13
 
 ## Morogrim Tidewalker
 
