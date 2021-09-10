@@ -3,6 +3,8 @@
 
 A quick note to start with: during progression we will try to stick to our 3 hour schedules. We will progress with a focused mindset, but ultimately we are here to have fun as a team. Enjoy these new and exciting raids we are about to face.
 
+Besides that, this document is in case you are new to SSC and you want a good idea of what you are getting in to. If you have a good idea of what is going on and just want a quick view of the assignments [**here**]() you go.
+
 ## Group setup
 
 Before each raid, the table below will be updated to reflect the group composition of that day. I will use strictly character names so new guild members aren't left in the dark. Each entry in the table receives a number which will be used for assignments. This is to increase reusability of the sheet and to avoid confusion.
@@ -24,6 +26,7 @@ Before each raid, the table below will be updated to reflect the group compositi
 
 ## Serpentshrine Cavern
 ---
+
 ### Trash leading up to **Hydross the Unstable**
 
 Before we can beat the mighty first boss of SSC, we need to clear trash. This trash does require some paying attention to. There are a few types of packs before the first boss.
@@ -62,9 +65,19 @@ These are like the father of the ones in Steamvaults. Nature resistance helps a 
 
 They also have abilities when they die. Notably they can either spawn a load of adds or two big ones. The other abilities I'm sure will speak for themselves. Goblins can herb these giants for a nice profit. [**hehe**](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcustom-gwent.com%2FcardsBg%2F57086c5f7494678b06d3098c4502ca35.jpeg&f=1&nofb=1)
 
-**THIRD TYPE OF PACK**
+### **Hydross the Unstable**: "The melee killer"
 
+The fight is split up in two phases. A **Frost** and a **Nature** phase. We will have to manually move the boss from phase to phase to prevent us dying to the **Mark** mechanic. When the boss is moved across the middle he changes to an according phase. **North is the Frost** phase and **South is the Nature** phase. This also triggers a **THREAT WIPE**, which means no damage is supposed to go out during the transition.
 
+The **Mark** mechanic is a specific debuff for either phase that stacks up slowly the longer you are in a phase. This makes it harder to stay in a given phase. We will **swap to either side around 100% of the Mark debuff**.
+
+![**Frost** phase](images/frost_phase.png)
+
+During the **Frost** phase, the boss targets players with [**Water Tomb**](https://tbc.wowhead.com/spell=38235/water-tomb), an AOE stun which deals moderate DOT damage. Everyone needs to be at least 8 yards apart.
+
+![**Nature** phase](images/nature_phase.png)
+
+During the **Nature** phase, the boss puts a [**Vile Sludge**](https://tbc.wowhead.com/spell=38246/vile-sludge) debuff on a random player, reducing their healing taken and doing moderate DOT damage.
 
 
 
