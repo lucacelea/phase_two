@@ -1,4 +1,5 @@
 # Bloodbaine and **you** in phase two
+---
 
 A quick note to start with: during progression we will try to stick to our 3 hour schedules. We will progress with a focused mindset, but ultimately we are here to have fun as a team. Enjoy these new and exciting raids we are about to face.
 
@@ -10,7 +11,7 @@ Before each raid, the table below will be updated to reflect the group compositi
 | ----------- | ----------- | ----------- | ----------- |
 | 1: Tomorrowland   | 4: Raemar         | 9: Djretmasterx   | 14: Nazzo |
 | 2: Lieven         | 5: Naarii         | 10: Zyepox        | 15: Hayfa |
-| 3: Khyrdan        | 6: Talyda         | 11: Kritzo        | 16: Dragma |
+| 3: Khyrdan        | 6: Talyra         | 11: Kritzo        | 16: Dragma |
 |                   | 7: Adeptus        | 12: Snowbolls     | 17: Lepotan |
 |                   | 8: Eiswuerfel     | 13: Shamidon      | 18: Capernian |
 |                   |                   |                   | 19: Ex |
@@ -22,29 +23,46 @@ Before each raid, the table below will be updated to reflect the group compositi
 |                   |                   |                   | 25: Samlad |
 
 ## Serpentshrine Cavern
+---
+### Trash leading up to **Hydross the Unstable**
 
-Before we can beat the mighty first boss of SSC, we need to clear trash. This trash does require some paying attention to.
+Before we can beat the mighty first boss of SSC, we need to clear trash. This trash does require some paying attention to. There are a few types of packs before the first boss.
 
-There are a few mobs to watch out for:
+**FIRST TYPE OF PACK**
 
+[**Coilfang Hate-Screamer**](https://tbc.wowhead.com/npc=21339/coilfang-hate-screamer)
+- Immune to CC
+- AOE silence 30 yards around herself
+- Arcane blasts nearby enemies
+- Moderate melee damage
 
-- [Coilfang Hate-Screamer](https://tbc.wowhead.com/npc=21339/coilfang-hate-screamer)
-    - Immune to CC
-    - AOE silence 30 yards around herself
-    - Arcane blasts nearby enemies
-    - Moderate melee damage
-- [Serpentshrine Sporebat](https://tbc.wowhead.com/npc=21246/serpentshrine-sporebat)
-    - Vulnerable to CC
-    - Charges furthest target for moderate melee damage
-    - Coilfang Beast-Tamers can enrage them, making them immune to CC
-- [Serpentshrine Beast-Tamer](https://tbc.wowhead.com/npc=21221/coilfang-beast-tamer)
-    - Immune to CC
-    - Cleaves
-    - Can enrage Serpentshrine Sporebats, making them immune to CC
+[**Serpentshrine Sporebat**](https://tbc.wowhead.com/npc=21246/serpentshrine-sporebat)
+- Vulnerable to CC
+- Charges furthest target for moderate melee damage
+- Coilfang Beast-Tamers can enrage them, making them immune to CC
 
-For these types of packs: 
+[**Serpentshrine Beast-Tamer**](https://tbc.wowhead.com/npc=21221/coilfang-beast-tamer)
+- Immune to CC
+- Cleaves
+- Can enrage Serpentshrine Sporebats, making them immune to CC
+
 > Kill Beast-Tamers >> CC Sporebats >> Kill Hate-Screamers >> Kill Sporebats
 
+**SECOND TYPE OF PACK**
+
+[**Underbog Colossus**](https://tbc.wowhead.com/npc=21221/coilfang-beast-tamer)
+
+These are like the father of the ones in Steamvaults. Nature resistance helps a lot on these. They are also similar to the Anubisath Sentinels or the Core Hounds. They spawn with random abilities that are unique to them.
+
+- *Type A*: does a [**Spore Quake**](https://tbc.wowhead.com/spell=38976/spore-quake). Shit's nasty. 2,000 damage per tick and a chance to knock down. Melee need to get to at least 30 yards away.
+- *Type B*: 
+    - does an [**Acid Geyser**](https://tbc.wowhead.com/spell=41573/acid-geyser). Works exactly the same as the Netherspite breath. Everyone needs to spread out.
+    - Affects players with a DOT which afterwards spawns a little parasite. Kill it, or it reinfects other players.
+- *Type C*: these enrage. Hunters need to [**Tranquilizing Shot**](https://tbc.wowhead.com/spell=19801/tranquilizing-shot)
+
+They also have abilities when they die. Notably they can either spawn a load of adds or two big ones. The other abilities I'm sure will speak for themselves. Goblins can herb these giants for a nice profit. [**hehe**](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcustom-gwent.com%2FcardsBg%2F57086c5f7494678b06d3098c4502ca35.jpeg&f=1&nofb=1)
+
+**THIRD TYPE OF PACK**
 
 
 
