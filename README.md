@@ -3,7 +3,7 @@
 
 A quick note to start with: during progression we will try to stick to our 3 hour schedules. We will progress with a focused mindset, but ultimately we are here to have fun as a team. Enjoy these new and exciting raids we are about to face.
 
-Besides that, this document is in case you are new to SSC and you want a good idea of what you are getting in to. If you have a good idea of what is going on and just want a quick view of the assignments [**here**]() you go.
+Besides that, this document is in case you are new to SSC and you want a good idea of what you are getting in to. If you have a good idea of what is going on and just want a quick view of the assignments [**here**](ASSIGNMENTS.md) you go.
 
 ## Group setup
 
@@ -11,18 +11,18 @@ Before each raid, the table below will be updated to reflect the group compositi
 
 | Tanks | Healers | Melee | Ranged |
 | ----------- | ----------- | ----------- | ----------- |
-| 1: Tomorrowland   | 4: Raemar         | 9: Djretmasterx   | 14: Nazzo |
-| 2: Lieven         | 5: Naarii         | 10: Zyepox        | 15: Hayfa |
-| 3: Khyrdan        | 6: Talyra         | 11: Kritzo        | 16: Dragma |
-|                   | 7: Adeptus        | 12: Snowbolls     | 17: Lepotan |
-|                   | 8: Eiswuerfel     | 13: Shamidon      | 18: Capernian |
-|                   |                   |                   | 19: Ex |
-|                   |                   |                   | 20: Brunarian |
-|                   |                   |                   | 21: Onlytwogendr |
-|                   |                   |                   | 22: Galing |
-|                   |                   |                   | 23: Marionette |
-|                   |                   |                   | 24: Agaboo |
-|                   |                   |                   | 25: Samlad |
+| T1: Tomorrowland   | 4: Raemar         | 9: Djretmasterx   | H1: Nazzo |
+| T2: Lieven         | 5: Naarii         | 10: Zyepox        | H2: Hayfa |
+| T3: Khyrdan        | 6: Talyra         | 11: Kritzo        | H3: Dragma |
+|                   | 7: Adeptus        | 12: Snowbolls     | 14: Lepotan |
+|                   | 8: Eiswuerfel     | 13: Shamidon      | M1: Capernian |
+|                   |                   |                   | M2: Ex |
+|                   |                   |                   | WL1: Brunarian |
+|                   |                   |                   | WL2: Onlytwogendr |
+|                   |                   |                   | WL3: Galing |
+|                   |                   |                   | WL4: Marionette |
+|                   |                   |                   | 15: Agaboo |
+|                   |                   |                   | 16: Samlad |
 
 ## Serpentshrine Cavern
 ---
