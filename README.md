@@ -71,15 +71,53 @@ The fight is split up in two phases. A **Frost** and a **Nature** phase. We will
 
 The **Mark** mechanic is a specific debuff for either phase that stacks up slowly the longer you are in a phase. This makes it harder to stay in a given phase. We will **swap to either side around 100% of the Mark debuff**.
 
+Below you can find the positioning for the **Frost** phase.
+
 ![**Frost** phase](frost_phase.png)
 
 During the **Frost** phase, the boss targets players with [**Water Tomb**](https://tbc.wowhead.com/spell=38235/water-tomb), an AOE stun which deals moderate DOT damage. Everyone needs to be at least 8 yards apart.
+
+Below you can find the positioning for the **Nature** phase.
 
 ![**Nature** phase](nature_phase.png)
 
 During the **Nature** phase, the boss puts a [**Vile Sludge**](https://tbc.wowhead.com/spell=38246/vile-sludge) debuff on a random player, reducing their healing taken and doing moderate DOT damage.
 
+Adds will spawn during the **phase transitions** around Hydross. The **third tank (Khyrdan)** is responsible for picking these up. If the tank is overwhelmed, **Warlocks** can help by **Banishing** escaped adds.
 
+### Trash leading up to **The Lurker Below**
+
+This trash is a joke. You can read up on them if you are so inclined. I made all the names clickable. Kill order as follows.
+
+> CC [Greyheart Technicians](https://wowpedia.fandom.com/wiki/Greyheart_Technician) and [Coilfang Priestesses](https://wowpedia.fandom.com/wiki/Coilfang_Priestess) >> Kill [Coilfang Shatterers](https://wowpedia.fandom.com/wiki/Coilfang_Shatterer) >> Kill [Vashj'ir Honor Guard](https://wowpedia.fandom.com/wiki/Vashj%27ir_Honor_Guard) >> Kill [Greyheart Technicians](https://wowpedia.fandom.com/wiki/Greyheart_Technician)
+
+### **The Lurker Below**: Loot Piñata
+
+Any improved [King's Defenderers](https://tbc.wowhead.com/item=30058/mallet-of-the-tides)? First week for sure. This guy is just like Chess Event, in that he will never drop what you want and will bore you to tears.
+
+He swaps between **two phases**. A **Boss** phase and an **Add** phase. 
+
+Below, you can see the positioning for the **Boss** phase.
+
+![**Boss** phase](boss_phase.png)
+
+He does three things in the **Boss** phase. 
+
+- He does a [**Geyser**](https://tbc.wowhead.com/spell=37478/geyser), which acts similar to the [**Water Tomb**](https://tbc.wowhead.com/spell=38235/water-tomb) from **Hydross**. Everyone needs to be 10 yards apart ideally.
+- He will straight up [**go Blastoise mode**](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F63e8%2Ff%2F2013%2F104%2F2%2Fc%2Fblastoise_by_youngj723-d61rt01.jpg&f=1&nofb=1) and start squirting water clockwise or counter clockwise (like **C'thun**). You will keep pumping until he's about to turn to you, at which point you jump in the water for safety. ([wowhead link](https://tbc.wowhead.com/spell=37433/spout))
+- He does a [**Whirl**](https://tbc.wowhead.com/spell=37363/whirl) which is a melee only mechanic. Tanks will take care of this with a gap closer so no unfortunate accidents happen.
+
+After two minutes **The Lurker Below** will submerge, starting the **Add** phase.
+
+![**Boss** phase](add_phase.png)
+
+During this **Add** phase, **adds** spawn (who would've thought). Each small platform spawns two [**Coilfang Ambushers**](https://tbc.wowhead.com/npc=21865/coilfang-ambusher). These **will be CC'ed by the ranged DPS on the platform** until the [**Coilfang Guardians**](https://tbc.wowhead.com/npc=21873/coilfang-guardian) are dead. These Guardians will be tanked and focused down, after which melee and casters will go around in a clockwise fashion to kill the Ambushers. 
+
+After the **adds** are dead, **The Lurker Below** will reemerge and do a wombocombo, so prepare for that.
+
+> Whirl >> Spout >> Whirl
+
+After this it's rinse and repeat boys and girls. Time to collect that mace.
 
 
 
