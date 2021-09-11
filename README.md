@@ -3,7 +3,7 @@
 
 A quick note to start with: during progression we will try to stick to our 3 hour schedules. We will progress with a focused mindset, but ultimately we are here to have fun as a team. Enjoy these new and exciting raids we are about to face.
 
-Besides that, this document is in case you are new to SSC and you want a good idea of what you are getting in to. If you have a good idea of what is going on and just want a quick view of the assignments [**here**](ASSIGNMENTS.md) you go.
+Besides that, this document is in case you are new to SSC and you want a good idea of what you are getting in to. If you have a good idea of what is going on and just want a quick view of the assignments [**here**]() you go.
 
 ## Group setup
 
@@ -151,4 +151,23 @@ When the **Shaman** dies, **Phantom-Lord** is brought to the **Shaman's** spot a
 
 When the **Hunter** dies, we kill the **Priest** while interrupting her. After which we nuke the **Phantom-Lord**.
 
+### Morogrim Tidewalker
 
+Morogrim might be a bit of a challenge organisation wise. Positionings below.
+
+![Tidegrim](tidewalker.png)
+
+![Morogrim](morogrim.jpg)
+
+**Phase One**
+During Phase One, we will move Tidewalker to a pillar while facing him away from the raid. This is to prevent Tidal Wave from hitting anyone other than the tank. Here, the raid should be positioned behind Tidewalker, where they can both kill the boss and efficiently AOE down any Murloc waves that come.
+
+Phase One lasts until Earthquake is cast, at which point two Murloc Waves will be summoned and begin racing toward Tidewalker's room. At this point Hunters will put down Frost Traps to slow down the incoming Murlocs.
+
+**Phase Two**
+Dealing with the Murlocs is the most difficult part of this encounter. You will need to give plenty of time to generate threat before using AOE abilities to burn the groups down. 
+
+Once the Murloc wave is cleared, the group can go back to hitting Tidewalker, just as they did in Phase One.
+
+**Phase Three**
+Once Tidewalker reaches 25% total health, Tidewalker will cast **Summon Water Globule**, which summons Water Globules that move slowly and fixate toward a random target. To deal with this, we will move Tidewalker into the corner of the room, away from the Globules.
