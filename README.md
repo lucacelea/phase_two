@@ -160,14 +160,17 @@ Morogrim might be a bit of a challenge organisation wise. Positionings below.
 ![Morogrim](morogrim.jpg)
 
 **Phase One**
+
 During Phase One, we will move Tidewalker to a pillar while facing him away from the raid. This is to prevent Tidal Wave from hitting anyone other than the tank. Here, the raid should be positioned behind Tidewalker, where they can both kill the boss and efficiently AOE down any Murloc waves that come.
 
 Phase One lasts until Earthquake is cast, at which point two Murloc Waves will be summoned and begin racing toward Tidewalker's room. At this point Hunters will put down Frost Traps to slow down the incoming Murlocs.
 
 **Phase Two**
+
 Dealing with the Murlocs is the most difficult part of this encounter. You will need to give plenty of time to generate threat before using AOE abilities to burn the groups down. 
 
 Once the Murloc wave is cleared, the group can go back to hitting Tidewalker, just as they did in Phase One.
 
 **Phase Three**
+
 Once Tidewalker reaches 25% total health, Tidewalker will cast **Summon Water Globule**, which summons Water Globules that move slowly and fixate toward a random target. To deal with this, we will move Tidewalker into the corner of the room, away from the Globules.
