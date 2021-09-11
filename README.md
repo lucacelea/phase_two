@@ -99,7 +99,7 @@ He swaps between **two phases**. A **Boss** phase and an **Add** phase.
 
 Below, you can see the positioning for the **Boss** phase.
 
-![**Boss** phase](boss_phase.png)
+![**Boss** phase](images/boss_phase.png)
 
 He does three things in the **Boss** phase. 
 
@@ -109,7 +109,7 @@ He does three things in the **Boss** phase.
 
 After two minutes **The Lurker Below** will submerge, starting the **Add** phase.
 
-![**Boss** phase](add_phase.png)
+![**Boss** phase](images/add_phase.png)
 
 During this **Add** phase, **adds** spawn (who would've thought). Each small platform spawns two [**Coilfang Ambushers**](https://tbc.wowhead.com/npc=21865/coilfang-ambusher). These **will be CC'ed by the ranged DPS on the platform** until the [**Coilfang Guardians**](https://tbc.wowhead.com/npc=21873/coilfang-guardian) (**these cleave**) are dead. These Guardians will be tanked and focused down, after which melee and casters will go around in a clockwise fashion to kill the Ambushers. 
 
@@ -135,7 +135,7 @@ At 15% he duplicates himself, meaning we are fighting both phases at the same ti
 
 This guy, again, is piss easy. Diagram for positioning below.
 
-![Phantom Lord](phantom_lord.png)
+![Phantom Lord](images/phantom_lord.png)
 
 Kill order is:
 
@@ -155,9 +155,9 @@ When the **Hunter** dies, we kill the **Priest** while interrupting her. After w
 
 Morogrim might be a bit of a challenge organisation wise. Positionings below.
 
-![Tidegrim](tidewalker.png)
+![Tidegrim](images/tidewalker.png)
 
-![Morogrim](morogrim.jpg)
+![Morogrim](images/morogrim.jpg)
 
 **Phase One**
 
