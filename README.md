@@ -174,3 +174,25 @@ Once the Murloc wave is cleared, the group can go back to hitting Tidewalker, ju
 **Phase Three**
 
 Once Tidewalker reaches 25% total health, Tidewalker will cast **Summon Water Globule**, which summons Water Globules that move slowly and fixate toward a random target. To deal with this, we will move Tidewalker into the corner of the room, away from the Globules.
+
+### Lady Vashj
+
+WIP
+
+## Tempest Keep
+
+### Void Reaver
+
+WIP 
+
+### Al'ar
+
+WIP
+
+### High Astromancer Solarian
+
+WIP
+
+### Kael'thas Sunstrider
+
+WIP
