@@ -51,3 +51,23 @@ No particular assignments in mind right now, suggestions welcome.
 | H1,H2       |
 
 ## Lady Vashj
+
+WIP
+
+# Tempest Keep
+
+## Void Reaver
+
+WIP 
+
+## Al'ar
+
+WIP
+
+## High Astromancer Solarian
+
+WIP
+
+## Kael'thas Sunstrider
+
+WIP
