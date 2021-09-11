@@ -177,7 +177,14 @@ Once Tidewalker reaches 25% total health, Tidewalker will cast **Summon Water Gl
 
 ### Lady Vashj
 
-WIP
+First of all, you need this macro:
+
+```
+/use Tainted Core
+/y <------- TAINTED CORE TO: %t !!!
+/s <------- TAINTED CORE TO: %t !!!
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+```
 
 ## Tempest Keep
 
