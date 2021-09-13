@@ -52,7 +52,9 @@ No particular assignments in mind right now, suggestions welcome.
 
 ## Lady Vashj
 
-WIP
+| Coilfang Strider Kiters |
+| ----------- |
+| WL1,15      |
 
 # Tempest Keep
 
