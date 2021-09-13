@@ -186,6 +186,32 @@ First of all, you need this macro:
 /script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
 ```
 
+Lady Vashj will probably be the most challenging boss in SSC for us. That being said, this boss consists of three phases. I will explain each phase thoroughly. 
+
+**Phase One** 
+
+It's just us and Lady Vashj. All the hunters will Misdirect the MT on pull so we can pump hard from the start. This will be advantageous later on. 
+She just does [Static Charge](https://tbc.wowhead.com/spell=38280/static-charge). Which means everyone should try to spread out. This is also necessary in phase two, so it saves you from moving later on in the fight. At 70%, she will activate her shields, meaning she is invulnerable to damage until we take the four generators to that shield out. 
+
+**Phase Two**
+
+The goal in **Phase Two** is to disable the shield which protects Lady Vashj. The only way the Shield Generators can be disabled is if a player standing next to them has a [Tainted Core](https://tbc.wowhead.com/item=31088/tainted-core) in their bags. These drop from the [Tainted Elementals](https://tbc.wowhead.com/npc=22009/tainted-elemental) that spawn during this phase. While in the Shield, Lady Vashj will summon waves of enemies that the raid will need to deal with while the Shield Generators are being disabled.
+
+In this phase, DPS should focus their damage accordingly: 
+
+- Ranged - [Coilfang Strider](https://tbc.wowhead.com/npc=22056/coilfang-strider) **This guy fears all players in melee range, should be avoided at all costs.**
+- Melee - [Coilfang Elite](https://tbc.wowhead.com/npc=22055/coilfang-elite) **This one cleaves, so stand behind him, unless you want more rage hehe.**
+- Hunters - [Enchanted Elemental](https://tbc.wowhead.com/npc=21958/enchanted-elemental) **If this one reaches Lady Vashj, it buffs her significantly, making the fight harder.**
+
+During **Phase Two** players will also get Mind Controlled. It is recommended for tanks/beefy boys to taunt them quickly to avoid squishy players getting smacked. Hunters in charge of killing elementals will call out when they've killed a Tainted one and we will start passing the [Tainted Core](https://tbc.wowhead.com/item=31088/tainted-core) to the generator. 
+
+When all four generators have been disabled, Lady Vashj will be vulnerable again. This is when **Phase Three** starts.
+
+**Phase Three**
+
+She will wipe threat, meaning all hunters will Misdirect to the main tank again for a jump in snap threat. (We will also pop heroism.)
+During **Phase Three** she will also spawn [Toxic Sporebats](https://tbc.wowhead.com/npc=22140/toxic-sporebat) which leave behind Toxic Clouds when they die. This is a soft enrage mechanic, meaning that if too many Sporebats spawn, we will inevitably die because we don't have room. Ranged DPS should focus these down. 
+
 ## Tempest Keep
 
 ### Void Reaver
