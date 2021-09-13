@@ -195,6 +195,8 @@ She just does [Static Charge](https://tbc.wowhead.com/spell=38280/static-charge)
 
 **Phase Two**
 
+![Lady Vashj](images/lady_vashj.jpg)
+
 The goal in **Phase Two** is to disable the shield which protects Lady Vashj. The only way the Shield Generators can be disabled is if a player standing next to them has a [Tainted Core](https://tbc.wowhead.com/item=31088/tainted-core) in their bags. These drop from the [Tainted Elementals](https://tbc.wowhead.com/npc=22009/tainted-elemental) that spawn during this phase. While in the Shield, Lady Vashj will summon waves of enemies that the raid will need to deal with while the Shield Generators are being disabled.
 
 In this phase, DPS should focus their damage accordingly: 
